@@ -1,12 +1,14 @@
 *{
     margin: 0;
     padding: 0;
-    
+
 }
 
-header{
+.cabeçalho{
     background-color: cyan;
     color: black;
+    align-content: center;
+    display: inline-block;
 }
 .foto {
     width: 5%;
