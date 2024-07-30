@@ -5,13 +5,13 @@
 }
 
 .cabeçalho{
-    background-color: cyan;
+    background-color: rgb(63, 73, 73);
     color: black;
     align-content: center;
     display: inline-block;
 }
 .foto {
-    width: 5%;
+    width: 15%;
 }
-.braços {background-color: aliceblue;
+.braços {background-color: rgb(63, 71, 78);
 color: black;}
