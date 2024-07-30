@@ -7,8 +7,9 @@
 .cabeçalho{
     background-color: rgb(63, 73, 73);
     color: black;
-    align-content: center;
-    display: inline-block;
+    justify-content: space-around;
+align-items: center;
+    padding: 24px 0;
 }
 .foto {
     width: 15%;
